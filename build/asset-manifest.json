@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6408895d.chunk.css",
+    "main.js": "/static/js/main.94cf38a4.chunk.js",
+    "main.js.map": "/static/js/main.94cf38a4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7f76a1c9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7f76a1c9.js.map",
+    "static/js/2.6fd0753c.chunk.js": "/static/js/2.6fd0753c.chunk.js",
+    "static/js/2.6fd0753c.chunk.js.map": "/static/js/2.6fd0753c.chunk.js.map",
+    "static/js/3.0b5d7509.chunk.js": "/static/js/3.0b5d7509.chunk.js",
+    "static/js/3.0b5d7509.chunk.js.map": "/static/js/3.0b5d7509.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6408895d.chunk.css.map": "/static/css/main.6408895d.chunk.css.map",
+    "static/js/2.6fd0753c.chunk.js.LICENSE.txt": "/static/js/2.6fd0753c.chunk.js.LICENSE.txt",
+    "static/media/facebook.cebbbbea.svg": "/static/media/facebook.cebbbbea.svg",
+    "static/media/instagram.02967a62.svg": "/static/media/instagram.02967a62.svg",
+    "static/media/orange-fruit.79f274d2.svg": "/static/media/orange-fruit.79f274d2.svg",
+    "static/media/twitter.88d497cc.svg": "/static/media/twitter.88d497cc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f76a1c9.js",
+    "static/js/2.6fd0753c.chunk.js",
+    "static/css/main.6408895d.chunk.css",
+    "static/js/main.94cf38a4.chunk.js"
+  ]
+}
